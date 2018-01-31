@@ -30,6 +30,8 @@ namespace AzureBlobStorage
                 //   string AccessURL = GetBlobSasUri(container, "Daily Report Format.txt", null);
                 //ReadBlobList(container);// Note :- Retrive List of Blob.
                 //DownloadBlob(container);  // Download all Blob of Container.
+
+                // Delete Blob.
                 DeleteBlob(container, "MyBlob.txt");
             }
             catch (Exception ex)
