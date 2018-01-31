@@ -1,0 +1,9 @@
+Daily Report 30-Jun-2017
+
+Hi,
+(6 hours 30 minutes)
+
+1 . Communication with calvin for question in excel sheet import from order dashboard. 
+2 . Working on order Dashboar Export Excel sheet as per given format, working on first sheet name "Customer name Recon", which contain all order and invoice data and thair product data. format of sheet is ready, working proper binding data in excel format. 
+(https://basecamp.com/2942468/projects/9336086/todos/314117007) 
+Thanks

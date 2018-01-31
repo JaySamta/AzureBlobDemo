@@ -1,0 +1,10 @@
+URL : https://community.xero.com/developer/discussion/39248834
+
+
+Credit notes and line items Started by Alex Bergin - 6 Sep 2016 in API Endpoints As per the GET request doc's for Credit Notes, Credit Notes don't include the Credit Note Line items.
+
+For Invoices they don't include Line Items unless you also include the optional 'page' parameter, however Credit Note's don't have the 'page' parameter.
+
+It seems the only way to get Line Items of Credit Notes is to individually query each Credit Note by passing the CreditNoteID value. This could take a while given the slow performance of the Xero APi servers, and would eat into our daily 1000 requests limit.
+
+Have I overlooked something or is there another way to get CreditItems with Lineitems. Thanks.

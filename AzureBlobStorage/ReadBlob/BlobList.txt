@@ -1,0 +1,2 @@
+Block blob of length 477: https://satvademostorage.blob.core.windows.net/images/Daily Report Format.txt
+Block blob of length 766: https://satvademostorage.blob.core.windows.net/images/MyBlob.txt
